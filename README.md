@@ -22,7 +22,7 @@ Data files (.mat): datasets for reproducibility of experiments.
 
 The routines have been implemented and developed by Angela Monti and Fasma Diele. They can be used under the conditions of CC-BY-NC 2.0. When utilizing this codebase, please cite the following publication:
 
-A. Monti, F. Diele, Exponential Consensus through Z-Control in High-Order Multi-Agent Systems, arXiv preprint.
+A. Monti, F. Diele, Exponential Consensus through Z-Control in High-Order Multi-Agent Systems, arXiv preprint, https://doi.org/10.48550/arXiv.2511.19252
 
 The complete description of the model, control architecture, and numerical methods is available in the cited manuscript.
 
